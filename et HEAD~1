@@ -1,0 +1,46 @@
+[33m8473af1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m pushing 4layer model code
+ created_data/FA.csv                                |    16699 [32m+[m
+ created_data/botlowcru.csv                         |      256 [32m+[m
+ created_data/botlowsed.csv                         |      256 [32m+[m
+ created_data/botmidcru.csv                         |      256 [32m+[m
+ created_data/botmidsed.csv                         |      256 [32m+[m
+ created_data/botupcru.csv                          |      256 [32m+[m
+ created_data/botupsed.csv                          |      256 [32m+[m
+ created_data/crust_thick_360_for_FA.csv            |      256 [32m+[m
+ created_data/curv_33.1_westNA.csv                  |  1080001 [32m++[m
+ created_data/dt_grav.csv                           |      256 [32m+[m
+ created_data/filt_lola_grav_age_q_z_bath.csv       |     2041 [32m+[m
+ created_data/filtered_0.2.csv                      |       15 [32m+[m
+ created_data/gebco_bath.csv                        | 11059201 [32m++++++++++++++++[m
+ created_data/grav_33.1_westNA.csv                  |  1026001 [32m++[m
+ created_data/hf_age_grav.csv                       |     7446 [32m+[m
+ created_data/ihfc_muller_interp.csv                |     7469 [32m+[m
+ created_data/kd_all_bathy.csv                      |      827 [32m+[m
+ created_data/kd_ihfc_muller_interp.csv             |     7469 [32m+[m
+ created_data/lat_lon_FA_age.csv                    |    16699 [32m+[m
+ created_data/lat_lon_FA_age_q.csv                  |    16699 [32m+[m
+ created_data/lat_lon_FA_age_q_bathy.csv            |    16699 [32m+[m
+ created_data/lat_lon_age_bath.csv                  |     7446 [32m+[m
+ created_data/lola_bathy_age_q_grav_z.csv           |    55297 [32m+[m
+ created_data/lola_grav_age_q_z_bath.csv            |    16699 [32m+[m
+ created_data/lola_grav_age_q_z_bath_sed.csv        |    16699 [32m+[m
+ created_data/relief_vanc.csv                       |   792374 [32m++[m
+ created_data/test_east_lola_grav_age_q_z_bath.csv  |     5935 [32m+[m
+ created_data/test_filt_lola_grav_age_q_z_bath.csv  |      290 [32m+[m
+ created_data/train_east_lola_grav_age_q_z_bath.csv |     5935 [32m+[m
+ created_data/train_filt_lola_grav_age_q_z_bath.csv |      290 [32m+[m
+ src/4layermodel/4lay.ipynb                         |      248 [32m+[m
+ src/4layermodel/4lay_doubleanom.ipynb              |      284 [32m+[m
+ .../Forward Modeling Gravity Anomaly.ipynb         |      253 [32m+[m
+ src/package/01_my_first_figure.ipynb               |      362 [32m+[m
+ src/package/02_my_contour_map.ipynb                |      252 [32m+[m
+ src/package/__init__.py                            |        0
+ src/package/my_gravity_disturbance.ipynb           |      399 [32m+[m
+ src/pars_scl/parscl_data.ipynb                     |      332 [32m+[m
+ src/pars_scl/parscl_stein_data.ipynb               |      245 [32m+[m
+ src/thickness/all_thickness.ipynb                  |      323 [32m+[m
+ src/thickness/crust_thickness.ipynb                |      196 [32m+[m
+ src/thickness/sed_thickness.ipynb                  |      173 [32m+[m
+ src/ult/age_depth_harmonica.ipynb                  |      673 [32m+[m
+ src/ult/segmented.ipynb                            |      572 [32m+[m
+ 44 files changed, 14164591 insertions(+)
